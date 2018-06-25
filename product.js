@@ -2269,10 +2269,10 @@ $(document).ready(function () {
 
 setTimeout(function () {
 	$('#modal-default').modal('show');
-}, 2000)
+}, 2000);
 
 setTimeout(function () {
 	$('#modal-default').modal('hide');
-}, 40000)
+}, 40000);
 
 
